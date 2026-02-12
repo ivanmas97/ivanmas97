@@ -4,7 +4,8 @@ iOS Developer
 ---------------------
 
 
-I'm passionate about mobile iOS development since 2021 and have 5 years of commercial experience. I'm currently working in OTP Bank Russia.
+I'm passionate about mobile iOS development since 2021 and have 5 years of commercial experience. 
+I'm currently working in OTP Bank (Russia).
 
 * 🌍  I'm based in Moscow, Russia
 * ✉️  You can contact me at [ivanmas97@yandex.ru](mailto:ivanmas97@yandex.ru) or in [Telegram](https://t.me/maslov97/)
